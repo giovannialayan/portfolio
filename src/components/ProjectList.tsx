@@ -8,14 +8,18 @@ interface Props {
 function ProjectList({ projects }: Props) {
   return (
     <table>
-      <tr>
-        <th>project title</th>
-        <th className='desc'>description</th>
-        <th>demo video</th>
-      </tr>
-      {projects.map((project, index) => {
-        return <ProjectNode key={index} project={project}></ProjectNode>;
-      })}
+      <thead>
+        <tr>
+          <th>project title</th>
+          <th className='desc'>description</th>
+          <th>demo video</th>
+        </tr>
+      </thead>
+      <tbody>
+        {projects.map((project, index) => {
+          return <ProjectNode key={index} project={project}></ProjectNode>;
+        })}
+      </tbody>
     </table>
   );
 }
