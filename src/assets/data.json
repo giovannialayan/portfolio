@@ -1,6 +1,13 @@
 {
   "projects": [
     {
+      "title": "JD Viewer",
+      "description": "Developed with React and Typescript. A website for browsing songs in the Just Dance game series. It allows for searching and various sorting methods. It is also possible to favorite songs and get a random song.",
+      "video": "",
+      "github": "https://github.com/giovannialayan/jd-viewer",
+      "projectLink": "https://giovannialayan.github.io/jd-viewer/"
+    },
+    {
       "title": "don't not live",
       "description": "Developed with C# in Unity. A precision platformer with intentionally unconventional controls. Completed over the course of several months and is listed on Steam. Created dashing mechanic where the player moves the mouse to aim and execute it that allows for a great deal of accuracy but requires mastery to use effectively. Created multiple platforming mechanics to increase the complexity of the platforming over the course of the game. Used a limited amount of mechanics to create a wide array of platforming experiences in the game.",
       "video": "https://www.youtube.com/embed/1a9qsG5GVrA?si=f4IiYdV2tko2B_xc",
@@ -25,8 +32,8 @@
       "title": "ultimate tic tac toe",
       "description": "A school project I created. Developed with HTML, CSS, and Javascript and using the canvas. It is similar to playing 10 games of tic tac toe at once with all of them being connected and affecting each other. The board is automatically drawn based on the size of the canvas and width of the lines. When a click occurs on the canvas it gets its position as a row and column on the board and uses that to draw the square that shows where the player moved and stores the move as sector and tile. Created functions that can translate between expressing a position on the board as row and column or sector and tile.",
       "video": "https://www.youtube.com/embed/ya_GsSKwbL0",
-      "github": "",
-      "projectLink": "https://people.rit.edu/gna7400/330/project-3/home.html"
+      "github": "https://github.com/giovannialayan/ultimate-tic-tac-toe-web",
+      "projectLink": "https://giovannialayan.github.io/ultimate-tic-tac-toe-web/"
     },
     {
       "title": "pumpkin patch protector",
@@ -41,13 +48,6 @@
       "video": "https://www.youtube.com/embed/zuLLW9afCLc",
       "github": "https://github.com/giovannialayan/gios-tower-defense",
       "projectLink": ""
-    },
-    {
-      "title": "physics tools",
-      "description": "In high school I took AP Physics C Mechanics and we had a group project for every unit. I made a web page for every project that does the calculations that we figured out so we could show that our calculations work and our conclusion is reproducable.",
-      "video": "https://www.youtube.com/embed/7KZ3FycZgaI",
-      "github": "",
-      "projectLink": "https://people.rit.edu/gna7400/physics/index.html"
     }
   ]
 }
