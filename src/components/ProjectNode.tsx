@@ -18,7 +18,9 @@ function ProjectNode({ project }: Props) {
           <>
             <br />
             <br />
-            <a href={project.github}>github</a>
+            <a href={project.github} target='_blank'>
+              github
+            </a>
           </>
         )}
       </td>

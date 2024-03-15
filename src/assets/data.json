@@ -1,8 +1,15 @@
 {
   "projects": [
     {
+      "title": "ListList",
+      "description": "Developed with React and Typescript. Used Bootstrap for styling. A website for making lists. Groups and sub groups can be created and items can be added to both. Items, groups, and sub groups can be dragged to change their position in the list. Items, groups, and sub groups can be edited to chage their information and properties. items can be given properties to add additional information to items.",
+      "video": "",
+      "github": "https://github.com/giovannialayan/listlist",
+      "projectLink": "https://giovannialayan.github.io/listlist/"
+    },
+    {
       "title": "JD Viewer",
-      "description": "Developed with React and Typescript. A website for browsing songs in the Just Dance game series. It allows for searching and various sorting methods. It is also possible to favorite songs and get a random song.",
+      "description": "Developed with React and Typescript. Used Bootstrap for styling. A website for browsing songs in the Just Dance game series. It allows for searching and various grouping methods. It is also possible to favorite songs and get a random song.",
       "video": "",
       "github": "https://github.com/giovannialayan/jd-viewer",
       "projectLink": "https://giovannialayan.github.io/jd-viewer/"
