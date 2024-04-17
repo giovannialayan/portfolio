@@ -1,0 +1,15 @@
+.projectParent {
+  position: relative;
+  max-width: 40rem;
+}
+
+.closeButton {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+}
+
+.closeButton,
+.closeButton:hover {
+  color: inherit;
+}

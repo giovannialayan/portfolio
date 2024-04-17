@@ -23,7 +23,7 @@ td {
   padding: 1em;
 }
 
-a {
+/* a {
   text-decoration: none;
 }
 
@@ -36,7 +36,7 @@ a:visited {
 a:hover {
   color: #03e7fc;
   cursor: pointer;
-}
+} */
 
 .desc {
   width: 50%;

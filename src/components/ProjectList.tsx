@@ -1,26 +1,23 @@
-import Project from '../interface/IProject';
-import ProjectNode from './ProjectNode';
+import { Button } from 'react-bootstrap';
+import './ProjectList.css';
 
 interface Props {
-  projects: Project[];
+  titles: string[];
+  show: boolean;
+  showProject: (id: number) => void;
 }
 
-function ProjectList({ projects }: Props) {
+function ProjectList({ titles, show, showProject }: Props) {
   return (
-    <table>
-      <thead>
-        <tr>
-          <th>project title</th>
-          <th className='desc'>description</th>
-          <th>demo video</th>
-        </tr>
-      </thead>
-      <tbody>
-        {projects.map((project, index) => {
-          return <ProjectNode key={index} project={project}></ProjectNode>;
-        })}
-      </tbody>
-    </table>
+    <div className={show ? 'd-flex flex-column align-items-center gap-4' : 'collapse'}>
+      {titles.map((title, id) => {
+        return (
+          <Button variant='secondary' size='lg' className='projectButton' key={title} onClick={() => showProject(id)}>
+            {title}
+          </Button>
+        );
+      })}
+    </div>
   );
 }
 
