@@ -2,7 +2,7 @@
   "projects": [
     {
       "title": "ListList",
-      "description": "Developed with React and Typescript. Used Bootstrap for styling. A website for making lists. Groups and sub groups can be created and items can be added to both. Items, groups, and sub groups can be dragged to change their position in the list. Items, groups, and sub groups can be edited to chage their information and properties. items can be given properties to add additional information to items.",
+      "description": "Developed with React and Typescript. Used Bootstrap for styling. A website for making lists. Groups and sub groups can be created and items can be added to both. Items, groups, and sub groups can be dragged to change their position in the list. Items, groups, and sub groups can be edited to change their information and properties. items can be given properties to add additional information to items.",
       "video": "",
       "github": "https://github.com/giovannialayan/listlist",
       "projectLink": "https://giovannialayan.github.io/listlist/",
