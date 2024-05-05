@@ -4,6 +4,7 @@ interface Project {
   video: string;
   projectLink: string;
   github: string;
+  images: string[];
 }
 
 export default Project;

@@ -5,56 +5,72 @@
       "description": "Developed with React and Typescript. Used Bootstrap for styling. A website for making lists. Groups and sub groups can be created and items can be added to both. Items, groups, and sub groups can be dragged to change their position in the list. Items, groups, and sub groups can be edited to chage their information and properties. items can be given properties to add additional information to items.",
       "video": "",
       "github": "https://github.com/giovannialayan/listlist",
-      "projectLink": "https://giovannialayan.github.io/listlist/"
+      "projectLink": "https://giovannialayan.github.io/listlist/",
+      "images": ["listlist_image_1.png"]
     },
     {
       "title": "JD Viewer",
       "description": "Developed with React and Typescript. Used Bootstrap for styling. A website for browsing songs in the Just Dance game series. It allows for searching and various grouping methods. It is also possible to favorite songs and get a random song.",
       "video": "",
       "github": "https://github.com/giovannialayan/jd-viewer",
-      "projectLink": "https://giovannialayan.github.io/jd-viewer/"
+      "projectLink": "https://giovannialayan.github.io/jd-viewer/",
+      "images": ["jdviewer_image_1.png"]
+    },
+    {
+      "title": "smash selective random",
+      "description": "Developed with Svelte. Used Tailwind for styling. Allows the user to get a random character out of a pool of characters that they decide. Character selections can be saved to a profile, a profile's character selections can be edited and profiles can be deleted",
+      "video": "",
+      "github": "https://github.com/giovannialayan/smash-selective-random",
+      "projectLink": "https://giovannialayan.github.io/smash-selective-random/",
+      "images": ["smashselectiverandom_image_1.png"]
     },
     {
       "title": "don't not live",
       "description": "Developed with C# in Unity. A precision platformer with intentionally unconventional controls. Completed over the course of several months and is listed on Steam. Created dashing mechanic where the player moves the mouse to aim and execute it that allows for a great deal of accuracy but requires mastery to use effectively. Created multiple platforming mechanics to increase the complexity of the platforming over the course of the game. Used a limited amount of mechanics to create a wide array of platforming experiences in the game.",
       "video": "https://www.youtube.com/embed/1a9qsG5GVrA?si=f4IiYdV2tko2B_xc",
       "github": "",
-      "projectLink": "https://store.steampowered.com/app/2498920/dont_not_live/"
+      "projectLink": "https://store.steampowered.com/app/2498920/dont_not_live/",
+      "images": []
     },
     {
       "title": "treasure war",
       "description": "A realtime multiplayer game where players have accounts and their data is stored and used for in-game skins and a leaderboard. Developed with NodeJS and Express to create the backend of the app which manages the controllers, models, and views. MongoDB is used to store account data and the items in the store. bcrypt is used to salt and hash and compare passwords. React components are used to display data retrieved from the server and send POST requests to the server from a form. Socket.io is used for the realtime multiplayer.",
       "video": "",
       "github": "https://github.com/giovannialayan/treasurewar",
-      "projectLink": ""
+      "projectLink": "",
+      "images": []
     },
     {
       "title": "syfer",
       "description": "Developed with NodeJS to create the backend of the app that handles GET, POST, and HEAD requests which serve files or JSON data to the client or create and edit data on the server and in the Firebase database. A random word is chosen and the letters are replaced by numbers. The numbers increase based on the alphabetical order of their letters but are not a one to one of the letter's position in the alphabet. The player has to guess what letter each number is and they are told if the letter is that number, a different number, or none of the numbers. The user can select between light and dark theme and their preference is saved between visits. The user can also add words to the word list used in the game.",
       "video": "",
       "github": "https://github.com/giovannialayan/syfer",
-      "projectLink": "https://syfer.fly.dev"
+      "projectLink": "https://syfer.fly.dev",
+      "images": ["syfer_image_1.png", "syfer_image_2.png"]
     },
     {
       "title": "ultimate tic tac toe",
       "description": "A school project I created. Developed with HTML, CSS, and Javascript and using the canvas. It is similar to playing 10 games of tic tac toe at once with all of them being connected and affecting each other. The board is automatically drawn based on the size of the canvas and width of the lines. When a click occurs on the canvas it gets its position as a row and column on the board and uses that to draw the square that shows where the player moved and stores the move as sector and tile. Created functions that can translate between expressing a position on the board as row and column or sector and tile.",
       "video": "https://www.youtube.com/embed/ya_GsSKwbL0",
       "github": "https://github.com/giovannialayan/ultimate-tic-tac-toe-web",
-      "projectLink": "https://giovannialayan.github.io/ultimate-tic-tac-toe-web/"
+      "projectLink": "https://giovannialayan.github.io/ultimate-tic-tac-toe-web/",
+      "images": []
     },
     {
       "title": "pumpkin patch protector",
       "description": "Worked in a team of 5 to create a card based tower defense game in C# using Unity. Developed the card system and resource system in the game. Cards are how the player attacks enemies. Created in such a way that other members could easily create new cards using the Card constructor and cards could be created at run time with generated inputs. Cards could also be upgraded by changing their mana cost or damage dealt.",
       "video": "https://www.youtube.com/embed/sn5x5PUfa1M",
       "github": "https://github.com/chigbee001/GDD-2",
-      "projectLink": ""
+      "projectLink": "",
+      "images": []
     },
     {
       "title": "elemental exterminator",
       "description": "A personal project I created. Created with Unity using C# This is a tower defense game that has procedurally generates maps, it uses a depth first search algorithm for the procedural generation. Because the maps are mazes I use a breadth first search algorithm for enemy path finding. There are eight different types of towers the player can place on wall tiles and eight different types of enemies. Every ten waves of enemies that pass the player collects skill points that can be spent on various skills. Skill points and skills are saved to a file and read from the file when the game starts up.",
       "video": "https://www.youtube.com/embed/zuLLW9afCLc",
       "github": "https://github.com/giovannialayan/gios-tower-defense",
-      "projectLink": ""
+      "projectLink": "",
+      "images": []
     }
   ]
 }
