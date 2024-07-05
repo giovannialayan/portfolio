@@ -19,6 +19,8 @@ function ProjectNode({ project, show, handleClose }: Props) {
           <MdClose size={'1.75rem'}></MdClose>
         </a>
 
+        <p className='mb-0'>{project.date}</p>
+
         <p className='projectDescription'>{project.description}</p>
         {project.projectLink && (
           <a href={project.projectLink} target='_blank'>

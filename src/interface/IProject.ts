@@ -5,6 +5,7 @@ interface Project {
   projectLink: string;
   github: string;
   images: string[];
+  date: string;
 }
 
 export default Project;

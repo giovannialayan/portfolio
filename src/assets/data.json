@@ -6,7 +6,8 @@
       "video": "",
       "github": "https://github.com/giovannialayan/listlist",
       "projectLink": "https://giovannialayan.github.io/listlist/",
-      "images": ["listlist_image_1.png"]
+      "images": ["listlist_image_1.png"],
+      "date": "March - May 2024"
     },
     {
       "title": "JD Viewer",
@@ -14,7 +15,8 @@
       "video": "",
       "github": "https://github.com/giovannialayan/jd-viewer",
       "projectLink": "https://giovannialayan.github.io/jd-viewer/",
-      "images": ["jdviewer_image_1.png"]
+      "images": ["jdviewer_image_1.png"],
+      "date": "January - February 2024"
     },
     {
       "title": "smash selective random",
@@ -22,7 +24,8 @@
       "video": "",
       "github": "https://github.com/giovannialayan/smash-selective-random",
       "projectLink": "https://giovannialayan.github.io/smash-selective-random/",
-      "images": ["smashselectiverandom_image_1.png"]
+      "images": ["smashselectiverandom_image_1.png"],
+      "date": "May 2024"
     },
     {
       "title": "don't not live",
@@ -30,7 +33,8 @@
       "video": "https://www.youtube.com/embed/1a9qsG5GVrA?si=f4IiYdV2tko2B_xc",
       "github": "",
       "projectLink": "https://store.steampowered.com/app/2498920/dont_not_live/",
-      "images": []
+      "images": [],
+      "date": "January - August 2023"
     },
     {
       "title": "treasure war",
@@ -38,7 +42,8 @@
       "video": "",
       "github": "https://github.com/giovannialayan/treasurewar",
       "projectLink": "",
-      "images": []
+      "images": [],
+      "date": "April 2022"
     },
     {
       "title": "syfer",
@@ -46,7 +51,8 @@
       "video": "",
       "github": "https://github.com/giovannialayan/syfer",
       "projectLink": "https://syfer.fly.dev",
-      "images": ["syfer_image_1.png", "syfer_image_2.png"]
+      "images": ["syfer_image_1.png", "syfer_image_2.png"],
+      "date": "May - July 2023"
     },
     {
       "title": "ultimate tic tac toe",
@@ -54,7 +60,8 @@
       "video": "https://www.youtube.com/embed/ya_GsSKwbL0",
       "github": "https://github.com/giovannialayan/ultimate-tic-tac-toe-web",
       "projectLink": "https://giovannialayan.github.io/ultimate-tic-tac-toe-web/",
-      "images": []
+      "images": [],
+      "date": "October 2021"
     },
     {
       "title": "pumpkin patch protector",
@@ -62,7 +69,8 @@
       "video": "https://www.youtube.com/embed/sn5x5PUfa1M",
       "github": "https://github.com/chigbee001/GDD-2",
       "projectLink": "",
-      "images": []
+      "images": [],
+      "date": "September - October 2021"
     },
     {
       "title": "elemental exterminator",
@@ -70,7 +78,8 @@
       "video": "https://www.youtube.com/embed/zuLLW9afCLc",
       "github": "https://github.com/giovannialayan/gios-tower-defense",
       "projectLink": "",
-      "images": []
+      "images": [],
+      "date": "September 2020 - July 2021"
     }
   ]
 }
