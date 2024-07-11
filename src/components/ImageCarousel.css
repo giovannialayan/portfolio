@@ -1,5 +1,13 @@
 .carouselParent {
-  max-width: 50%;
+  gap: 4rem;
+}
+
+.carouselParent > a {
+  width: 35%;
+}
+
+.carouselParent > a > img {
+  width: 100%;
 }
 
 .imageModalDialog {

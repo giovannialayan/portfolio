@@ -26,11 +26,11 @@ function ImageCarousel({ images }: Props) {
     //   })}
     // </Carousel>
     <div>
-      <div className='carouselParent d-flex flex-column align-items-center m-auto'>
+      <div className='carouselParent d-flex flex-row flex-wrap justify-content-center my-4'>
         {images.map((image) => {
           return (
             <a key={image} role='button' className='d-flex my-1' onClick={() => showEnlargedImage(image)}>
-              <img className='border w-75 m-auto' src={image} />
+              <img className='border m-auto' src={image} />
             </a>
           );
         })}
