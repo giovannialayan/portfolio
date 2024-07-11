@@ -16,13 +16,7 @@ function App() {
   return (
     <div className='d-flex flex-column align-items-center'>
       <p className='head'>Giovanni Alayan's Portfolio</p>
-      <ProjectList
-        titles={data.projects.map((project) => {
-          return project.title;
-        })}
-        show={!show}
-        showProject={showProject}
-      ></ProjectList>
+      <ProjectList projects={data.projects} show={!show} showProject={showProject}></ProjectList>
       <ProjectNode project={data.projects[currentProjectId]} show={show} handleClose={() => setShow(false)}></ProjectNode>
     </div>
   );

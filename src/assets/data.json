@@ -33,7 +33,13 @@
       "video": "https://www.youtube.com/embed/1a9qsG5GVrA?si=f4IiYdV2tko2B_xc",
       "github": "",
       "projectLink": "https://store.steampowered.com/app/2498920/dont_not_live/",
-      "images": [],
+      "images": [
+        "dontnotlive_image_1.png",
+        "dontnotlive_image_2.png",
+        "dontnotlive_image_3.png",
+        "dontnotlive_image_4.png",
+        "dontnotlive_image_5.png"
+      ],
       "date": "January - August 2023"
     },
     {
@@ -42,7 +48,7 @@
       "video": "",
       "github": "https://github.com/giovannialayan/treasurewar",
       "projectLink": "",
-      "images": [],
+      "images": ["treasurewar_image_1.png", "treasurewar_image_2.png"],
       "date": "April 2022"
     },
     {
@@ -60,7 +66,7 @@
       "video": "https://www.youtube.com/embed/ya_GsSKwbL0",
       "github": "https://github.com/giovannialayan/ultimate-tic-tac-toe-web",
       "projectLink": "https://giovannialayan.github.io/ultimate-tic-tac-toe-web/",
-      "images": [],
+      "images": ["uttt_image_1.png", "uttt_image_2.png", "uttt_image_3.png"],
       "date": "October 2021"
     },
     {
@@ -69,7 +75,7 @@
       "video": "https://www.youtube.com/embed/sn5x5PUfa1M",
       "github": "https://github.com/chigbee001/GDD-2",
       "projectLink": "",
-      "images": [],
+      "images": ["ppp_image_1.png", "ppp_image_2.png", "ppp_image_3.png", "ppp_image_4.png"],
       "date": "September - October 2021"
     },
     {
@@ -78,7 +84,7 @@
       "video": "https://www.youtube.com/embed/zuLLW9afCLc",
       "github": "https://github.com/giovannialayan/gios-tower-defense",
       "projectLink": "",
-      "images": [],
+      "images": ["elementalexterminator_image_1.png", "elementalexterminator_image_2.png", "elementalexterminator_image_3.png"],
       "date": "September 2020 - July 2021"
     }
   ]
