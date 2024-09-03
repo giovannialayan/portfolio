@@ -1,12 +1,21 @@
 {
   "projects": [
     {
+      "title": "The Heroes Keep Dying",
+      "description": "Developed with C# in Unity. An action roguelike where the player selects a character and then defeats enemies and collects items as the progress through the levels of the dungeon. I created multiple systems for making adding content easier, I created ",
+      "video": "https://www.youtube.com/embed/L4XfBJB8ZBs?si=j6ooUTuYXGps6Wnm",
+      "github": "",
+      "projectLink": "https://oig.itch.io/the-heroes-keep-dying",
+      "images": ["thkd_image_1.webp", "thkd_image_2.webp"],
+      "date": "October 2023 - Ongoing"
+    },
+    {
       "title": "ListList",
       "description": "Developed with React and Typescript. Used Bootstrap for styling. A website for making lists. Groups and sub groups can be created and items can be added to both. Items, groups, and sub groups can be dragged to change their position in the list. Items, groups, and sub groups can be edited to change their information and properties. items can be given properties to add additional information to items.",
       "video": "",
       "github": "https://github.com/giovannialayan/listlist",
       "projectLink": "https://giovannialayan.github.io/listlist/",
-      "images": ["listlist_image_1.png"],
+      "images": ["listlist_image_1.webp"],
       "date": "March - May 2024"
     },
     {
@@ -15,7 +24,7 @@
       "video": "",
       "github": "https://github.com/giovannialayan/jd-viewer",
       "projectLink": "https://giovannialayan.github.io/jd-viewer/",
-      "images": ["jdviewer_image_1.png"],
+      "images": ["jdviewer_image_1.webp"],
       "date": "January - February 2024"
     },
     {
@@ -24,7 +33,7 @@
       "video": "",
       "github": "https://github.com/giovannialayan/smash-selective-random",
       "projectLink": "https://giovannialayan.github.io/smash-selective-random/",
-      "images": ["smashselectiverandom_image_1.png"],
+      "images": ["smashselectiverandom_image_1.webp"],
       "date": "May 2024"
     },
     {
@@ -34,11 +43,11 @@
       "github": "",
       "projectLink": "https://store.steampowered.com/app/2498920/dont_not_live/",
       "images": [
-        "dontnotlive_image_1.png",
-        "dontnotlive_image_2.png",
-        "dontnotlive_image_3.png",
-        "dontnotlive_image_4.png",
-        "dontnotlive_image_5.png"
+        "dontnotlive_image_1.webp",
+        "dontnotlive_image_2.webp",
+        "dontnotlive_image_3.webp",
+        "dontnotlive_image_4.webp",
+        "dontnotlive_image_5.webp"
       ],
       "date": "January - August 2023"
     },
@@ -48,7 +57,7 @@
       "video": "",
       "github": "https://github.com/giovannialayan/treasurewar",
       "projectLink": "",
-      "images": ["treasurewar_image_1.png", "treasurewar_image_2.png"],
+      "images": ["treasurewar_image_1.webp", "treasurewar_image_2.webp"],
       "date": "April 2022"
     },
     {
@@ -57,7 +66,7 @@
       "video": "",
       "github": "https://github.com/giovannialayan/syfer",
       "projectLink": "https://syfer.fly.dev",
-      "images": ["syfer_image_1.png", "syfer_image_2.png"],
+      "images": ["syfer_image_1.webp", "syfer_image_2.webp"],
       "date": "May - July 2023"
     },
     {
@@ -66,7 +75,7 @@
       "video": "https://www.youtube.com/embed/ya_GsSKwbL0",
       "github": "https://github.com/giovannialayan/ultimate-tic-tac-toe-web",
       "projectLink": "https://giovannialayan.github.io/ultimate-tic-tac-toe-web/",
-      "images": ["uttt_image_1.png", "uttt_image_2.png", "uttt_image_3.png"],
+      "images": ["uttt_image_1.webp", "uttt_image_2.webp", "uttt_image_3.webp"],
       "date": "October 2021"
     },
     {
@@ -75,7 +84,7 @@
       "video": "https://www.youtube.com/embed/sn5x5PUfa1M",
       "github": "https://github.com/chigbee001/GDD-2",
       "projectLink": "",
-      "images": ["ppp_image_1.png", "ppp_image_2.png", "ppp_image_3.png", "ppp_image_4.png"],
+      "images": ["ppp_image_1.webp", "ppp_image_2.webp", "ppp_image_3.webp", "ppp_image_4.webp"],
       "date": "September - October 2021"
     },
     {
@@ -84,7 +93,7 @@
       "video": "https://www.youtube.com/embed/zuLLW9afCLc",
       "github": "https://github.com/giovannialayan/gios-tower-defense",
       "projectLink": "",
-      "images": ["elementalexterminator_image_1.png", "elementalexterminator_image_2.png", "elementalexterminator_image_3.png"],
+      "images": ["elementalexterminator_image_1.webp", "elementalexterminator_image_2.webp", "elementalexterminator_image_3.webp"],
       "date": "September 2020 - July 2021"
     }
   ]
