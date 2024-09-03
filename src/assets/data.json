@@ -2,7 +2,7 @@
   "projects": [
     {
       "title": "The Heroes Keep Dying",
-      "description": "Developed with C# in Unity. An action roguelike where the player selects a character and then defeats enemies and collects items as the progress through the levels of the dungeon. I created multiple systems for making adding content easier, I created ",
+      "description": "Developed with C# in Unity. An action roguelike where the player selects a character and then defeats enemies and collects items as they progress through the levels of the dungeon. I created multiple systems for making adding content easier, such as a tool that takes a black and white map sketch and places specified tiles on a 2d grid based on the pixels in the image.",
       "video": "https://www.youtube.com/embed/L4XfBJB8ZBs?si=j6ooUTuYXGps6Wnm",
       "github": "",
       "projectLink": "https://oig.itch.io/the-heroes-keep-dying",
