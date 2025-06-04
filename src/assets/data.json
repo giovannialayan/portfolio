@@ -1,13 +1,22 @@
 {
   "projects": [
     {
+      "title": "Stella",
+      "description": "Developed with C# in Unity. A deckbuilder roguelike where the player has to play cards and collect items to gain as many points as they can. I Created modular mechanics that make it very easy for me to add new cards and items. I am able to add a new card by creating a new child class, overriding any methods it needs to use, and adding it to an array with information like its name and description.",
+      "video": "https://www.youtube.com/embed/vwxDKzqYS8A?si=lgDHx8wngVZBLxyZ",
+      "github": "",
+      "projectLink": "https://store.steampowered.com/app/2940840/Stella/",
+      "images": ["stella_image_1.webp", "stella_image_2.webp", "stella_image_3.webp", "stella_image_4.webp", "stella_image_5.webp"],
+      "date": "January 2025 - Ongoing"
+    },
+    {
       "title": "The Heroes Keep Dying",
       "description": "Developed with C# in Unity. An action roguelike where the player selects a character and then defeats enemies and collects items as they progress through the levels of the dungeon. I created multiple systems for making adding content easier, such as a tool that takes a black and white map sketch and places specified tiles on a 2d grid based on the pixels in the image.",
       "video": "https://www.youtube.com/embed/L4XfBJB8ZBs?si=j6ooUTuYXGps6Wnm",
       "github": "",
       "projectLink": "https://oig.itch.io/the-heroes-keep-dying",
       "images": ["thkd_image_1.webp", "thkd_image_2.webp"],
-      "date": "October 2023 - Ongoing"
+      "date": "October 2023 - December 2024"
     },
     {
       "title": "ListList",
