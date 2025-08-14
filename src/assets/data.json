@@ -3,7 +3,7 @@
     {
       "title": "Stella",
       "description": "Developed with C# in Unity. A deckbuilder roguelike where the player has to play cards and collect items to gain as many points as they can. I Created modular mechanics that make it very easy for me to add new cards and items. I am able to add a new card by creating a new child class, overriding any methods it needs to use, and adding it to an array with information like its name and description.",
-      "video": "https://www.youtube.com/embed/vwxDKzqYS8A?si=lgDHx8wngVZBLxyZ",
+      "video": "https://www.youtube.com/embed/xcJS0P3338M?si=ETXPcr6oNATn8J6t",
       "github": "",
       "projectLink": "https://store.steampowered.com/app/2940840/Stella/",
       "images": ["stella_image_1.webp", "stella_image_2.webp", "stella_image_3.webp", "stella_image_4.webp", "stella_image_5.webp"],
